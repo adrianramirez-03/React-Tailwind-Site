@@ -4,9 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before you can run the app, you must run the following command in the lab directory:
+
+### `npm install`
+
+to install all necessary dependencies.
+
+Once you've ran the previous command, you can run:
 
 ### `npm start`
+
+to start the application.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
